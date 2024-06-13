@@ -34,6 +34,14 @@ RDEPEND="
 	dev-python/zipp
 "
 
+src_prepare() {
+	distutils-r1_src_prepare
+}
+
+src_compile() {
+	distutils-r1_src_compile
+}
+
 src_install() {
 	distutils-r1_src_install
 }
