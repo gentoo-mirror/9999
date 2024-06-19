@@ -8,4 +8,5 @@ dev-util/postgres-lsp 0.0.0:
 dev-util/ruff-lsp 9999: A Language Server Protocol implementation for Ruff
 gui-apps/hyprlock 9999: Hyprland's GPU-accelerated screen locking utility
 gui-libs/hyprcursor 9999: The hyprland cursor format, library and utilities
+gui-libs/xdg-desktop-portal-hyprland 9999: xdg-desktop-portal backend for hyprland
 gui-wm/hyprland 9999: A dynamic tiling Wayland compositor that doesn't sacrifice on its looks
