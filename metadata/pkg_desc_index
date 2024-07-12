@@ -11,3 +11,4 @@ gui-libs/hyprcursor 9999: The hyprland cursor format, library and utilities
 gui-libs/hyprutils 9999: Hyprland utilities library used across the ecosystem
 gui-libs/xdg-desktop-portal-hyprland 9999: xdg-desktop-portal backend for hyprland
 gui-wm/hyprland 9999: A dynamic tiling Wayland compositor that doesn't sacrifice on its looks
+sys-fs/parallel-disk-usage 9999: Highly parallelized, blazing fast directory tree analyzer
