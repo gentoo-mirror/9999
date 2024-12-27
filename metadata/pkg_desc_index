@@ -1,5 +1,6 @@
 app-text/urlscan 9999: Small program that is designed to integrate with the mutt
 dev-db/pgx 9999: A pure Go driver and toolkit for PostgreSQL.
+dev-libs/glaze 9999: C++ JSON reader and writer
 dev-python/lsprotocol 9999: Language Server Protocol types code generator & packages
 dev-python/pygls 9999: Language Server Protocol types code generator & packages
 dev-util/android-studio 2024.2.2.6_p20241013: Android development environment based on IntelliJ IDEA
