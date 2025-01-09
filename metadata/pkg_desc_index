@@ -16,3 +16,4 @@ gui-wm/hyprland 9999: A dynamic tiling Wayland compositor that doesn't sacrifice
 net-mail/cyrus-imapd 3.8.3: The Cyrus IMAP Server
 net-proxy/pingora 9999: A framework to build fast, reliable and programmable networked systems at Internet scale.
 sys-fs/parallel-disk-usage 9999: Highly parallelized, blazing fast directory tree analyzer
+www-client/google-chrome-unstable 9999: The web browser from Google
