@@ -1,9 +1,12 @@
 app-text/urlscan 9999: Small program that is designed to integrate with the mutt
 dev-db/pgx 9999: A pure Go driver and toolkit for PostgreSQL.
 dev-libs/glaze 9999: C++ JSON reader and writer
+dev-python/isd 9999: A better way to work with systemd units
 dev-python/lsprotocol 9999: Language Server Protocol types code generator & packages
+dev-python/pfzy 9999: Python port of the fzy fuzzy string matching algorithm.
 dev-python/pygls 9999: Language Server Protocol types code generator & packages
-dev-util/android-studio 2024.3.2.3_p20250128: Android development environment based on IntelliJ IDEA
+dev-python/xdg-base-dirs 9999: xdg base dirs
+dev-util/android-studio 2024.3.2.3_p20250129: Android development environment based on IntelliJ IDEA
 dev-util/hyprwayland-scanner 9999: A Hyprland implementation of wayland-scanner, in and for C++
 dev-util/postgres-lsp 9999: 
 dev-util/ruff-lsp 9999: A Language Server Protocol implementation for Ruff
