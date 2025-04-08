@@ -228,13 +228,14 @@ CRATES="
 	zoneinfo_compiled@0.5.1
 "
 
-inherit cargo
+inherit cargo git-r3
 
 DESCRIPTION="A modern replacement for ls"
 HOMEPAGE="https://github.com/eza-community/eza"
 SRC_URI="
 	${CARGO_CRATE_URIS}
 "
+EGIT_REPO_URI="${HOMEPAGE}.git"
 
 LICENSE="EUPL-1.2"
 # Dependent crate licenses
