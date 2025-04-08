@@ -1,3 +1,4 @@
+app-admin/mkosi 9999: gentoo fork of mkosi
 app-text/urlscan 9999: Small program that is designed to integrate with the mutt
 dev-db/pgx 9999: A pure Go driver and toolkit for PostgreSQL.
 dev-libs/glaze 9999: C++ JSON reader and writer
