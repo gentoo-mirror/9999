@@ -21,5 +21,6 @@ net-analyzer/arp-scan-rs 9999: A minimalistic ARP scan tool
 net-analyzer/bandwidth 9999: Display current network utilization by process, connection and remote IP/hostname
 net-mail/cyrus-imapd 3.8.3: The Cyrus IMAP Server
 net-proxy/pingora 9999: A framework to build fast, reliable and programmable networked systems at Internet scale.
+sys-apps/eza 9999: A modern replacement for ls
 sys-fs/parallel-disk-usage 9999: Highly parallelized, blazing fast directory tree analyzer
 www-client/google-chrome-unstable 9999: The web browser from Google
