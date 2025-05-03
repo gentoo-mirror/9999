@@ -13,7 +13,7 @@ HOMEPAGE="https://github.com/srstevenson/${PN}"
 EGIT_REPO_URI="${HOMEPAGE}.git"
 
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64"
 
 src_prepare() {
 	distutils-r1_src_prepare

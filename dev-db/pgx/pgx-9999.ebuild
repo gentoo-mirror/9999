@@ -1,7 +1,7 @@
 
 EAPI=8
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="amd64"
 
 inherit git-r3 go-module
 

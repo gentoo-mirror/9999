@@ -24,7 +24,7 @@ S=${WORKDIR}
 
 LICENSE="google-chrome"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="-* ~amd64"
 
 IUSE="qt5 qt6 selinux"
 

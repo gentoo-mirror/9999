@@ -12,7 +12,7 @@ DESCRIPTION="Language Server Protocol types code generator & packages"
 HOMEPAGE="https://github.com/openlawlibrary/pygls"
 EGIT_REPO_URI="${HOMEPAGE}.git"
 
-KEYWORDS=""
+KEYWORDS="amd64"
 SLOT="0"
 
 RDEPEND="

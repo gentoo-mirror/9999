@@ -12,7 +12,7 @@ DESCRIPTION="A better way to work with systemd units"
 HOMEPAGE="https://github.com/isd-project/${PN}"
 EGIT_REPO_URI="${HOMEPAGE}.git"
 
-KEYWORDS=""
+KEYWORDS="amd64"
 SLOT="0"
 
 RDEPEND="

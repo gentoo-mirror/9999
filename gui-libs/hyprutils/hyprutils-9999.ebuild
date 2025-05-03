@@ -10,7 +10,7 @@ HOMEPAGE="https://github.com/hyprwm/hyprutils"
 
 inherit git-r3
 EGIT_REPO_URI="https://github.com/hyprwm/${PN^}.git"
-KEYWORDS=""
+KEYWORDS="~amd64"
 
 LICENSE="BSD"
 SLOT="0"

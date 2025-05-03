@@ -12,7 +12,7 @@ DESCRIPTION="Python port of the fzy fuzzy string matching algorithm."
 HOMEPAGE="https://github.com/kazhala/${PN}"
 EGIT_REPO_URI="${HOMEPAGE}.git"
 
-KEYWORDS=""
+KEYWORDS="amd64"
 SLOT="0"
 
 RDEPEND="

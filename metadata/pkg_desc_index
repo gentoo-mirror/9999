@@ -1,7 +1,8 @@
 app-admin/mkosi 9999: gentoo fork of mkosi
 app-text/urlscan 9999: Small program that is designed to integrate with the mutt
+dev-cpp/glaze 9999: Extremely fast, in memory, JSON and interface library for modern C++
 dev-db/pgx 9999: A pure Go driver and toolkit for PostgreSQL.
-dev-libs/glaze 9999: C++ JSON reader and writer
+dev-libs/hyprgraphics 9999: Hyprland graphics / resource utilities
 dev-python/isd 9999: A better way to work with systemd units
 dev-python/lsprotocol 9999: Language Server Protocol types code generator & packages
 dev-python/pfzy 9999: Python port of the fzy fuzzy string matching algorithm.
@@ -14,7 +15,6 @@ dev-util/postgres-lsp 9999:
 dev-util/ruff-lsp 9999: A Language Server Protocol implementation for Ruff
 gui-apps/hyprlock 9999: Hyprland's GPU-accelerated screen locking utility
 gui-libs/hyprcursor 9999: The hyprland cursor format, library and utilities
-gui-libs/hyprgraphics 9999: Aquamarine is a very light linux rendering backend library
 gui-libs/hyprutils 9999: Hyprland utilities library used across the ecosystem
 gui-libs/xdg-desktop-portal-hyprland 9999: xdg-desktop-portal backend for hyprland
 gui-wm/hyprland 9999: A dynamic tiling Wayland compositor that doesn't sacrifice on its looks

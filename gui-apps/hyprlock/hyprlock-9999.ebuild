@@ -13,7 +13,7 @@ EGIT_REPO_URI="https://github.com/hyprwm/${PN^}.git"
 LICENSE="BSD"
 SLOT="0"
 
-KEYWORDS=""
+KEYWORDS="~amd64"
 
 RDEPEND="
 	gui-libs/hyprutils
