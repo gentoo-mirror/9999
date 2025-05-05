@@ -3,7 +3,7 @@
 
 EAPI=8
 
-inherit cmake flag-o-matic
+inherit cmake flag-o-matic toolchain-funcs
 
 DESCRIPTION="Hyprland's GPU-accelerated screen locking utility"
 HOMEPAGE="https://github.com/hyprwm/hyprlock"
@@ -28,7 +28,7 @@ RDEPEND="
 	x11-libs/libxkbcommon
 	x11-libs/libdrm
 	x11-libs/pango
-	gui-libs/hyprgraphics
+	dev-libs/hyprgraphics
 "
 DEPEND="
 	${RDEPEND}
