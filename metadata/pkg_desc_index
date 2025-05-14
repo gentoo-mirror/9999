@@ -17,7 +17,6 @@ gui-apps/hyprlock 9999: Hyprland's GPU-accelerated screen locking utility
 gui-libs/hyprcursor 9999: The hyprland cursor format, library and utilities
 gui-libs/hyprutils 9999: Hyprland utilities library used across the ecosystem
 gui-libs/xdg-desktop-portal-hyprland 9999: xdg-desktop-portal backend for hyprland
-gui-wm/hyprland 9999: A dynamic tiling Wayland compositor that doesn't sacrifice on its looks
 net-analyzer/arp-scan-rs 9999: A minimalistic ARP scan tool
 net-analyzer/bandwidth 9999: Display current network utilization by process, connection and remote IP/hostname
 net-mail/cyrus-imapd 3.8.3: The Cyrus IMAP Server
