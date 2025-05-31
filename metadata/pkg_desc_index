@@ -9,7 +9,7 @@ dev-python/pfzy 9999: Python port of the fzy fuzzy string matching algorithm.
 dev-python/pygls 9999: Language Server Protocol types code generator & packages
 dev-python/textual-dev 9999: Python port of the fzy fuzzy string matching algorithm.
 dev-python/xdg-base-dirs 9999: xdg base dirs
-dev-util/android-studio 2025.1.1.3_alpha20250328: Android development environment based on IntelliJ IDEA
+dev-util/android-studio 2025.1.2.1_alpha20250520: Android development environment based on IntelliJ IDEA
 dev-util/hyprwayland-scanner 9999: A Hyprland implementation of wayland-scanner, in and for C++
 dev-util/postgres-lsp 9999: 
 dev-util/ruff-lsp 9999: A Language Server Protocol implementation for Ruff
