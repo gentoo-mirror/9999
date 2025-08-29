@@ -11,4 +11,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2025.1.4.3/android-studio-nightly-2025-08-29-linux.tar.gz
 _eclasses_=wrapper	11a2a3bd712784986679b60a0cab34a0	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
-_md5_=b9c92161cc9566f9fbad38b2eca9e927
+_md5_=d31832d13ab769c06ebe19988d8836c6
