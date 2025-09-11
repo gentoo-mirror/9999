@@ -9,7 +9,7 @@ dev-python/pfzy 9999: Python port of the fzy fuzzy string matching algorithm.
 dev-python/pygls 9999: Language Server Protocol types code generator & packages
 dev-python/textual-dev 9999: Python port of the fzy fuzzy string matching algorithm.
 dev-python/xdg-base-dirs 9999: xdg base dirs
-dev-util/android-studio 2025.1.4.4_alpha20250901: Android development environment based on IntelliJ IDEA
+dev-util/android-studio 2025.1.4.5_alpha20250910: Android development environment based on IntelliJ IDEA
 dev-util/hyprwayland-scanner 9999: A Hyprland implementation of wayland-scanner, in and for C++
 dev-util/postgres-lsp 9999: 
 dev-util/ruff-lsp 9999: A Language Server Protocol implementation for Ruff
@@ -17,6 +17,7 @@ gui-apps/hyprlock 9999: Hyprland's GPU-accelerated screen locking utility
 gui-libs/hyprcursor 9999: The hyprland cursor format, library and utilities
 gui-libs/hyprutils 9999: Hyprland utilities library used across the ecosystem
 gui-libs/xdg-desktop-portal-hyprland 9999: xdg-desktop-portal backend for hyprland
+gui-wm/hyprland 9999: A dynamic tiling Wayland compositor that doesn't sacrifice on its looks
 net-analyzer/arp-scan-rs 9999: A minimalistic ARP scan tool
 net-analyzer/bandwidth 9999: Display current network utilization by process, connection and remote IP/hostname
 net-mail/cyrus-imapd 3.8.3: The Cyrus IMAP Server
